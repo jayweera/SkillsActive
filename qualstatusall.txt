@@ -1,0 +1,84 @@
+New Zealand Qualification Authority
+Validation of Qualifications for Skills Active Aotearoa Limited
+Date Printed 09/21/22
+Batch Number 1481499
+
+109797295 Xie                           Wei Yan                       eligible 
+3503  2   1   New Zealand Certificate in Aquatics
+WARNING Name Mismatch: Xie Weiyan
+
+120106533 Cheesbrough                   Joanne                        not eligible 
+3507  4   1   New Zealand Certificate in Aquatics (Specialised Swim and Water Safety Teacher)
+WARNING Name Mismatch: Cheesbrough Joanne Mary
+
+123012179 Wood                          James Michael                 eligible 
+3417  4   1   New Zealand Certificate in Entertainment and Event Technology
+
+
+123012179 Wood                          James Michael                 eligible 
+3417  3   1   New Zealand Certificate in Entertainment and Event Technology
+
+
+123136648 Christensen                   Codie Lee                     eligible 
+3565      1   New Zealand Certificate in Freestyle Group Exercise
+
+
+126482068 Creamer                       Hannah Marie                  eligible 
+3503  2   1   New Zealand Certificate in Aquatics
+
+
+126924914 Wallace                       Claudia Mae                   eligible 
+3503  2   1   New Zealand Certificate in Aquatics
+
+
+127984422 Braden                        Shay Lee                      eligible 
+3503  1   1   New Zealand Certificate in Aquatics
+
+
+129097194 Holloway                      James John                    eligible 
+2570      1   New Zealand Certificate in Outdoor Experiences
+WARNING Name Mismatch: Holloway James
+
+131767876 Balloch                       Paige Louise                  eligible 
+3499  1   1   New Zealand Certificate in Snowsport Equipment
+
+
+132117685 Haydon                        Rose Francis                  eligible 
+3503  2   1   New Zealand Certificate in Aquatics
+WARNING Name Mismatch: Haydon Rose Frances Sylvia
+
+132507935 Martin                        Ashleigh Kay Maree            eligible 
+3503  2   1   New Zealand Certificate in Aquatics
+WARNING Name Mismatch: Martin Ashleigh Kay-Marie
+
+133137183 Hughes                        Shea Daniel                   eligible 
+2570      1   New Zealand Certificate in Outdoor Experiences
+
+
+133825876 Stanford                      Jessica Charlotte             eligible 
+3503  1   1   New Zealand Certificate in Aquatics
+
+
+133831632 Swart                         Wendy                         eligible 
+3503  2   1   New Zealand Certificate in Aquatics
+
+
+136030741 Proctor                       Jessica Claire                eligible 
+3503  2   1   New Zealand Certificate in Aquatics
+
+
+161587948 Coyle                         Janice                        eligible 
+3503  2   1   New Zealand Certificate in Aquatics
+
+
+161695000 Newman                        Rachael                       eligible 
+3503  2   1   New Zealand Certificate in Aquatics
+WARNING Name Mismatch: Newman Rachael Renee
+
+161811609 Colston                       Adam Matthew                  eligible 
+3503  1   1   New Zealand Certificate in Aquatics
+
+
+165396357 Adeane                        Andrew                        eligible 
+3503  1   1   New Zealand Certificate in Aquatics
+WARNING Name Mismatch: Adeane Andrew Robert
